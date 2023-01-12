@@ -1,0 +1,23 @@
+{
+    "clean_bathroom": 0,
+    "clean_bedroom": 1,
+    "clean_kitchen": 2,
+    "cook_bread": 9,
+    "cook_microwave": 3,
+    "cook_stove": 3,
+    "play_bedroom": 4,
+    "play_livingroom": 4,
+    "read_livingroom": 5,
+    "sleep": 6,
+    "wash_bathroom": 7,
+    "watch_livingroom": 8,
+    "clean bathroom":0,
+    "clean bedroom":1,
+    "clean kitchen":2,
+    "have a meal":3,
+    "have breakfast":9,
+    "play computer":4,
+    "read books":5,
+    "wash face":7,
+    "watch tv":8
+}
